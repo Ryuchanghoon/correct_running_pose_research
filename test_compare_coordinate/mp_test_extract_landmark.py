@@ -43,14 +43,16 @@ for idx, image_file in enumerate(image_files):
         print(f"Error: Unable to read image file {image_file}")
         continue
     
+
+    height, width, _ = image.shape # 절대 좌표값 계산 위함
     image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
     result = pose.process(image_rgb)
     
     if result.pose_landmarks:
         landmarks = result.pose_landmarks.landmark
-        shoulder = (landmarks[parts_indices["left_shoulder"]].x, landmarks[parts_indices["left_shoulder"]].y)
-        elbow = (landmarks[parts_indices["left_elbow"]].x, landmarks[parts_indices["left_elbow"]].y)
-        wrist = (landmarks[parts_indices["left_wrist"]].x, landmarks[parts_indices["left_wrist"]].y)
+        shoulder = (landmarks[parts_indices["left_shoulder"]].x * width, landmarks[parts_indices["left_shoulder"]].y * height) #
+        elbow = (landmarks[parts_indices["left_elbow"]].x * width, landmarks[parts_indices["left_elbow"]].y * height) # 
+        wrist = (landmarks[parts_indices["left_wrist"]].x * width, landmarks[parts_indices["left_wrist"]].y * height) #
         
         angle = calculate_angle(shoulder, elbow, wrist)
         
