@@ -1,1146 +1,1148 @@
 {
+
+
     "videos": [
         {
-            "video_file": "0001.mp4",
+            "video_file": "data/answer/video/0001.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0001/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0001/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0001/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0001/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0001/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0001/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0001/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0001/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0001/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0001/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0001/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0001/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0001/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0001/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0001/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0001/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0001/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0001/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0001/frame_18.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_19.jpg",
+                    "frame": "data/answer/frame/0001/frame_19.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_20.jpg",
+                    "frame": "data/answer/frame/0001/frame_20.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_21.jpg",
+                    "frame": "data/answer/frame/0001/frame_21.jpg",
                     "label": "answer"
                 }
             ]
         },
         {
-            "video_file": "0002.mp4",
+            "video_file": "data/answer/video/0002.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0002/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0002/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0002/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0002/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0002/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0002/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0002/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0002/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0002/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0002/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0002/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0002/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0002/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0002/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0002/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0002/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0002/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0002/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0002/frame_18.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_19.jpg",
+                    "frame": "data/answer/frame/0002/frame_19.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_20.jpg",
+                    "frame": "data/answer/frame/0002/frame_20.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_21.jpg",
+                    "frame": "data/answer/frame/0002/frame_21.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_22.jpg",
+                    "frame": "data/answer/frame/0002/frame_22.jpg",
                     "label": "answer"
                 }
             ]
         },
         {
-            "video_file": "0003.mp4",
+            "video_file": "data/answer/video/0003.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0003/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0003/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0003/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0003/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0003/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0003/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0003/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0003/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0003/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0003/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0003/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0003/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0003/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0003/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0003/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0003/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0003/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0003/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0003/frame_18.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_19.jpg",
+                    "frame": "data/answer/frame/0003/frame_19.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_20.jpg",
+                    "frame": "data/answer/frame/0003/frame_20.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_21.jpg",
+                    "frame": "data/answer/frame/0003/frame_21.jpg",
                     "label": "answer"
                 }
             ]
         },
         {
-            "video_file": "0004.mp4",
+            "video_file": "data/answer/video/0004.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0004/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0004/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0004/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0004/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0004/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0004/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0004/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0004/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0004/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0004/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0004/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0004/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0004/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0004/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0004/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0004/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0004/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0004/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0004/frame_18.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_19.jpg",
+                    "frame": "data/answer/frame/0004/frame_19.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_20.jpg",
+                    "frame": "data/answer/frame/0004/frame_20.jpg",
                     "label": "answer"
                 }
             ]
         },
         {
-            "video_file": "0005.mp4",
+            "video_file": "data/answer/video/0005.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0005/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0005/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0005/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0005/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0005/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0005/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0005/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0005/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0005/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0005/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0005/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0005/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0005/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0005/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0005/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0005/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0005/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0005/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0005/frame_18.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_19.jpg",
+                    "frame": "data/answer/frame/0005/frame_19.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_20.jpg",
+                    "frame": "data/answer/frame/0005/frame_20.jpg",
                     "label": "answer"
                 }
             ]
         },
         {
-            "video_file": "0006.mp4",
+            "video_file": "data/answer/video/0006.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0006/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0006/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0006/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0006/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0006/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0006/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0006/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0006/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0006/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0006/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0006/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0006/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0006/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0006/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0006/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0006/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0006/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0006/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0006/frame_18.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_19.jpg",
+                    "frame": "data/answer/frame/0006/frame_19.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_20.jpg",
+                    "frame": "data/answer/frame/0006/frame_20.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_21.jpg",
+                    "frame": "data/answer/frame/0006/frame_21.jpg",
                     "label": "answer"
                 }
             ]
         },
         {
-            "video_file": "0007.mp4",
+            "video_file": "data/answer/video/0007.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0007/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0007/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0007/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0007/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0007/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0007/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0007/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0007/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0007/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0007/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0007/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0007/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0007/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0007/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0007/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0007/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0007/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0007/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0007/frame_18.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_19.jpg",
+                    "frame": "data/answer/frame/0007/frame_19.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_20.jpg",
+                    "frame": "data/answer/frame/0007/frame_20.jpg",
                     "label": "answer"
                 }
             ]
         },
         {
-            "video_file": "0008.mp4",
+            "video_file": "data/answer/video/0008.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0008/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0008/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0008/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0008/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0008/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0008/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0008/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0008/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0008/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0008/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0008/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0008/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0008/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0008/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0008/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0008/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0008/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0008/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0008/frame_18.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_19.jpg",
+                    "frame": "data/answer/frame/0008/frame_19.jpg",
                     "label": "answer"
                 }
             ]
         },
         {
-            "video_file": "0009.mp4",
+            "video_file": "data/answer/video/0009.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0009/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0009/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0009/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0009/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0009/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0009/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0009/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0009/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0009/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0009/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0009/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0009/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0009/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0009/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0009/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0009/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0009/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0009/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0009/frame_18.jpg",
                     "label": "answer"
                 }
             ]
         },
         {
-            "video_file": "0010.mp4",
+            "video_file": "data/answer/video/0010.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0010/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0010/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0010/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0010/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0010/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0010/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0010/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0010/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0010/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0010/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0010/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0010/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0010/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0010/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0010/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0010/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0010/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0010/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0010/frame_18.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_19.jpg",
+                    "frame": "data/answer/frame/0010/frame_19.jpg",
                     "label": "answer"
                 }
             ]
         },
         {
-            "video_file": "0011.mp4",
+            "video_file": "data/answer/video/0011.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0011/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0011/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0011/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0011/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0011/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0011/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0011/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0011/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0011/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0011/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0011/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0011/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0011/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0011/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0011/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0011/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0011/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0011/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0011/frame_18.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_19.jpg",
+                    "frame": "data/answer/frame/0011/frame_19.jpg",
                     "label": "answer"
                 }
             ]
         },
         {
-            "video_file": "0012.mp4",
+            "video_file": "data/answer/video/0012.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0012/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0012/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0012/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0012/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0012/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0012/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0012/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0012/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0012/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0012/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0012/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0012/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0012/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0012/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0012/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0012/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0012/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0012/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0012/frame_18.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_19.jpg",
+                    "frame": "data/answer/frame/0012/frame_19.jpg",
                     "label": "answer"
                 }
             ]
         },
         {
-            "video_file": "0013.mp4",
+            "video_file": "data/answer/video/0013.mp4",
             "annotations": [
                 {
-                    "frame": "frame_0.jpg",
+                    "frame": "data/answer/frame/0013/frame_0.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_1.jpg",
+                    "frame": "data/answer/frame/0013/frame_1.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_2.jpg",
+                    "frame": "data/answer/frame/0013/frame_2.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_3.jpg",
+                    "frame": "data/answer/frame/0013/frame_3.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_4.jpg",
+                    "frame": "data/answer/frame/0013/frame_4.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_5.jpg",
+                    "frame": "data/answer/frame/0013/frame_5.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_6.jpg",
+                    "frame": "data/answer/frame/0013/frame_6.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_7.jpg",
+                    "frame": "data/answer/frame/0013/frame_7.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_8.jpg",
+                    "frame": "data/answer/frame/0013/frame_8.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_9.jpg",
+                    "frame": "data/answer/frame/0013/frame_9.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_10.jpg",
+                    "frame": "data/answer/frame/0013/frame_10.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_11.jpg",
+                    "frame": "data/answer/frame/0013/frame_11.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_12.jpg",
+                    "frame": "data/answer/frame/0013/frame_12.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_13.jpg",
+                    "frame": "data/answer/frame/0013/frame_13.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_14.jpg",
+                    "frame": "data/answer/frame/0013/frame_14.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_15.jpg",
+                    "frame": "data/answer/frame/0013/frame_15.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_16.jpg",
+                    "frame": "data/answer/frame/0013/frame_16.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_17.jpg",
+                    "frame": "data/answer/frame/0013/frame_17.jpg",
                     "label": "answer"
                 },
                 {
-                    "frame": "frame_18.jpg",
+                    "frame": "data/answer/frame/0013/frame_18.jpg",
                     "label": "answer"
                 }
             ]
